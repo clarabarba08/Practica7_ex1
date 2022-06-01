@@ -8,6 +8,8 @@ Per aquesta exercici només necessitem un altaveu i cables. Pel muntatge he segu
 - DIN --> G22
 - GND --> GND
 - Vin --> 3.3V
+
+
 El que obtenim quan fem *Upload and Monitor* és el següent:[Vídeo funcionament](https://drive.google.com/file/d/1YKYbzegySmjhGpX2p5JX_yrmkcF-wALd/view?usp=sharing).
 Com podem veure en el vídeo es repordueix un àudio per l'altaveu i per pantalla es mostra *Sound Generator*.  
 
